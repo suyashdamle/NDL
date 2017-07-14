@@ -1,0 +1,13 @@
+parameter,ddc_level,number of predictions,minimum confidence,recall,precision,F-score
+title,1,1,-20,54.70,73.23,62.63
+title,2,1,-20,87.07,96.07,91.35
+title,3,1,-20,71.74,71.88,71.81
+title_abs,1,1,-20,57.71,71.44,63.84
+title_abs,2,1,-20,88.62,95.47,91.92
+title_abs,3,1,-20,71.11,71.16,71.14
+title_contents_abs,1,1,-20,58.00,71.59,64.08
+title_contents_abs,2,1,-20,88.55,95.71,91.99
+title_contents_abs,3,1,-20,71.92,72.14,72.03
+title_contents,1,1,-20,54.83,72.87,62.58
+title_contents,2,1,-20,87.47,95.49,91.30
+title_contents,3,1,-20,71.20,71.47,71.33

@@ -1,0 +1,12 @@
+Level of classification,True classification,Predicted classification
+1,500-Natural sciences & mathematics,600-Technology
+1,300-Social sciences,600-Technology
+1,600-Technology,500-Natural sciences & mathematics
+1,600-Technology,"000-Computer science, information & general works"
+2,620-Engineering & allied operations,530-Physics
+2,530-Physics,620-Engineering & allied operations
+2,570-Life sciences; biology,610-Medicine & health
+2,360-Social problems & services; associations,610-Medicine & health
+3,621-Applied physics,537-Electricity & electronics
+3,004-Data processing & computer science,537-Electricity & electronics
+3,537-Electricity & electronics,621-Applied physics
