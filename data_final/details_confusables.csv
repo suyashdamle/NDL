@@ -1,0 +1,369 @@
+parameter,ddc_level,number of predictions,minimum confidence,true,predicted,percent_of_total
+title,1,1,-2,500-Natural sciences & mathematics,600-Technology,28.801040852659582
+title,1,1,0,500-Natural sciences & mathematics,600-Technology,45.706809980651862
+title,1,1,0,300-Social sciences,600-Technology,10.136416952367282
+title,1,1,0.05,500-Natural sciences & mathematics,600-Technology,46.47927541959784
+title,1,1,0.05,300-Social sciences,600-Technology,10.192604964913514
+title,1,1,1,500-Natural sciences & mathematics,600-Technology,58.698600126404891
+title,1,1,1,300-Social sciences,600-Technology,12.204770067598668
+title,1,1,3,500-Natural sciences & mathematics,600-Technology,50.558877047049613
+title,1,1,3,300-Social sciences,600-Technology,19.264125528747329
+title,1,2,-2,600-Technology,500-Natural sciences & mathematics,25.653890314031521
+title,1,2,-2,600-Technology,"000-Computer science, information & general works",12.519472887280424
+title,1,2,-2,500-Natural sciences & mathematics,600-Technology,11.072392745711442
+title,1,2,0,500-Natural sciences & mathematics,600-Technology,45.102186314059409
+title,1,2,0.05,500-Natural sciences & mathematics,600-Technology,45.928608894413088
+title,1,2,0.05,300-Social sciences,600-Technology,10.060923748281109
+title,1,2,1,500-Natural sciences & mathematics,600-Technology,58.600872479867412
+title,1,2,1,300-Social sciences,600-Technology,12.187026524148225
+title,1,2,3,500-Natural sciences & mathematics,600-Technology,50.515902061247104
+title,1,2,3,300-Social sciences,600-Technology,19.247751044790231
+title,1,3,-2,600-Technology,500-Natural sciences & mathematics,23.366522233717838
+title,1,3,-2,600-Technology,"000-Computer science, information & general works",16.617340034145165
+title,1,3,0,500-Natural sciences & mathematics,600-Technology,44.903894815294343
+title,1,3,0.05,500-Natural sciences & mathematics,600-Technology,45.74710178833535
+title,1,3,0.05,300-Social sciences,600-Technology,10.017812606300586
+title,1,3,1,500-Natural sciences & mathematics,600-Technology,58.567962812338934
+title,1,3,1,300-Social sciences,600-Technology,12.181040524464651
+title,1,3,3,500-Natural sciences & mathematics,600-Technology,50.501593296353086
+title,1,3,3,300-Social sciences,600-Technology,19.242299067626593
+title,2,1,-2,620-Engineering & allied operations,530-Physics,25.134059884841793
+title,2,1,-2,570-Life sciences; biology,610-Medicine & health,24.78012389151764
+title,2,1,-2,530-Physics,620-Engineering & allied operations,12.951954341525697
+title,2,1,0,570-Life sciences; biology,610-Medicine & health,42.450355346875618
+title,2,1,0,620-Engineering & allied operations,530-Physics,13.402037478604131
+title,2,1,0.05,570-Life sciences; biology,610-Medicine & health,43.511748028391679
+title,2,1,0.05,620-Engineering & allied operations,530-Physics,12.592529919828703
+title,2,1,1,570-Life sciences; biology,610-Medicine & health,57.198845577181856
+title,2,1,3,570-Life sciences; biology,610-Medicine & health,53.465259196095118
+title,2,1,3,360-Social problems & services; associations,610-Medicine & health,13.355288306036647
+title,2,2,-2,610-Medicine & health,040-,49.870018631521461
+title,2,2,0,570-Life sciences; biology,610-Medicine & health,38.772788538957705
+title,2,2,0,620-Engineering & allied operations,530-Physics,12.883798039293108
+title,2,2,0.05,570-Life sciences; biology,610-Medicine & health,40.05518258307162
+title,2,2,0.05,620-Engineering & allied operations,530-Physics,12.149546567704876
+title,2,2,1,570-Life sciences; biology,610-Medicine & health,55.960370416863896
+title,2,2,3,570-Life sciences; biology,610-Medicine & health,52.393026941362884
+title,2,2,3,360-Social problems & services; associations,610-Medicine & health,13.087451375882447
+title,2,3,-2,610-Medicine & health,040-,37.694234234232759
+title,2,3,0,570-Life sciences; biology,610-Medicine & health,37.956950803433863
+title,2,3,0,620-Engineering & allied operations,530-Physics,12.785323136168909
+title,2,3,0.05,570-Life sciences; biology,610-Medicine & health,39.289048866847644
+title,2,3,0.05,620-Engineering & allied operations,530-Physics,12.065823983286572
+title,2,3,1,570-Life sciences; biology,610-Medicine & health,55.712206535761808
+title,2,3,3,570-Life sciences; biology,610-Medicine & health,52.152588555858287
+title,2,3,3,360-Social problems & services; associations,610-Medicine & health,13.02739136670014
+title,3,1,-2,621-Applied physics,537-Electricity & electronics,50.333154651366002
+title,3,1,-2,537-Electricity & electronics,621-Applied physics,28.057453560367353
+title,3,1,-2,004-Data processing & computer science,537-Electricity & electronics,10.818509566085515
+title,3,1,0,621-Applied physics,537-Electricity & electronics,53.407784055432089
+title,3,1,0,537-Electricity & electronics,621-Applied physics,24.454798607809177
+title,3,1,0,004-Data processing & computer science,537-Electricity & electronics,13.565355043654156
+title,3,1,0.05,621-Applied physics,537-Electricity & electronics,53.232200801521245
+title,3,1,0.05,537-Electricity & electronics,621-Applied physics,24.604420803743427
+title,3,1,0.05,004-Data processing & computer science,537-Electricity & electronics,13.656871214369739
+title,3,1,1,621-Applied physics,537-Electricity & electronics,47.754212853206951
+title,3,1,1,537-Electricity & electronics,621-Applied physics,32.506781145212571
+title,3,1,1,004-Data processing & computer science,537-Electricity & electronics,15.7493432434164
+title,3,1,3,537-Electricity & electronics,621-Applied physics,67.431192660550451
+title,3,1,3,621-Applied physics,537-Electricity & electronics,22.477064220183482
+title,3,2,-2,621-Applied physics,537-Electricity & electronics,12.276949761649645
+title,3,2,-2,537-Electricity & electronics,621-Applied physics,10.358139262522283
+title,3,2,0,621-Applied physics,537-Electricity & electronics,46.501054329260938
+title,3,2,0,537-Electricity & electronics,621-Applied physics,21.659203718451657
+title,3,2,0,004-Data processing & computer science,537-Electricity & electronics,11.22171968365117
+title,3,2,0.05,621-Applied physics,537-Electricity & electronics,46.654127950265611
+title,3,2,0.05,537-Electricity & electronics,621-Applied physics,21.859162258740525
+title,3,2,0.05,004-Data processing & computer science,537-Electricity & electronics,11.431544974687336
+title,3,2,1,621-Applied physics,537-Electricity & electronics,44.308764531904359
+title,3,2,1,537-Electricity & electronics,621-Applied physics,29.903267055160189
+title,3,2,1,004-Data processing & computer science,537-Electricity & electronics,14.41037804913759
+title,3,2,3,537-Electricity & electronics,621-Applied physics,38.082901554404138
+title,3,2,3,327-International relations,330-Economics,32.64248704663212
+title,3,2,3,621-Applied physics,537-Electricity & electronics,12.694300518134712
+title,3,3,0,621-Applied physics,537-Electricity & electronics,45.768607544620949
+title,3,3,0,537-Electricity & electronics,621-Applied physics,21.463699545522083
+title,3,3,0,004-Data processing & computer science,537-Electricity & electronics,10.915547371388399
+title,3,3,0.05,621-Applied physics,537-Electricity & electronics,45.967587922198113
+title,3,3,0.05,537-Electricity & electronics,621-Applied physics,21.658259957176476
+title,3,3,0.05,004-Data processing & computer science,537-Electricity & electronics,11.145611697646096
+title,3,3,1,621-Applied physics,537-Electricity & electronics,43.838648216931979
+title,3,3,1,537-Electricity & electronics,621-Applied physics,29.522141606204602
+title,3,3,1,004-Data processing & computer science,537-Electricity & electronics,14.210657993495101
+title,3,3,3,537-Electricity & electronics,621-Applied physics,37.309644670050751
+title,3,3,3,327-International relations,330-Economics,31.979695431472074
+title,3,3,3,621-Applied physics,537-Electricity & electronics,12.43654822335025
+title_abs,1,1,-2,500-Natural sciences & mathematics,600-Technology,25.746666342646243
+title_abs,1,1,-2,600-Technology,500-Natural sciences & mathematics,12.269291628438385
+title_abs,1,1,0,500-Natural sciences & mathematics,600-Technology,37.942656962198697
+title_abs,1,1,0,600-Technology,500-Natural sciences & mathematics,17.395490231260268
+title_abs,1,1,0.05,500-Natural sciences & mathematics,600-Technology,38.407987276083169
+title_abs,1,1,0.05,600-Technology,500-Natural sciences & mathematics,17.647174967740742
+title_abs,1,1,1,500-Natural sciences & mathematics,600-Technology,45.372049411451378
+title_abs,1,1,1,600-Technology,500-Natural sciences & mathematics,20.721134093182311
+title_abs,1,1,3,500-Natural sciences & mathematics,600-Technology,56.616899470534037
+title_abs,1,1,3,600-Technology,500-Natural sciences & mathematics,18.285639488514761
+title_abs,1,2,-2,600-Technology,500-Natural sciences & mathematics,21.14266719733077
+title_abs,1,2,-2,500-Natural sciences & mathematics,600-Technology,12.688799778211241
+title_abs,1,2,0,500-Natural sciences & mathematics,600-Technology,34.75934688720784
+title_abs,1,2,0,600-Technology,500-Natural sciences & mathematics,23.740870519862163
+title_abs,1,2,0.05,500-Natural sciences & mathematics,600-Technology,35.231376961956776
+title_abs,1,2,0.05,600-Technology,500-Natural sciences & mathematics,23.914070508787653
+title_abs,1,2,1,500-Natural sciences & mathematics,600-Technology,42.501409413611078
+title_abs,1,2,1,600-Technology,500-Natural sciences & mathematics,25.459552458819601
+title_abs,1,2,3,500-Natural sciences & mathematics,600-Technology,55.129102887320464
+title_abs,1,2,3,600-Technology,500-Natural sciences & mathematics,20.277418820007032
+title_abs,1,3,-2,600-Technology,500-Natural sciences & mathematics,19.514031950888185
+title_abs,1,3,0,500-Natural sciences & mathematics,600-Technology,33.882630170781738
+title_abs,1,3,0,600-Technology,500-Natural sciences & mathematics,25.385596079707359
+title_abs,1,3,0.05,500-Natural sciences & mathematics,600-Technology,34.353609046326582
+title_abs,1,3,0.05,600-Technology,500-Natural sciences & mathematics,25.54759860279788
+title_abs,1,3,1,500-Natural sciences & mathematics,600-Technology,41.66915878633656
+title_abs,1,3,1,600-Technology,500-Natural sciences & mathematics,26.80258916675966
+title_abs,1,3,3,500-Natural sciences & mathematics,600-Technology,54.657682227897119
+title_abs,1,3,3,600-Technology,500-Natural sciences & mathematics,20.90708127908896
+title_abs,2,1,-2,570-Life sciences; biology,610-Medicine & health,24.79439676157541
+title_abs,2,1,-2,620-Engineering & allied operations,530-Physics,18.480986756917627
+title_abs,2,1,-2,530-Physics,620-Engineering & allied operations,17.817058667350821
+title_abs,2,1,0,570-Life sciences; biology,610-Medicine & health,31.62211277275112
+title_abs,2,1,0,530-Physics,620-Engineering & allied operations,15.279768219616219
+title_abs,2,1,0,620-Engineering & allied operations,530-Physics,15.085711282088136
+title_abs,2,1,0.05,570-Life sciences; biology,610-Medicine & health,32.05600858866363
+title_abs,2,1,0.05,530-Physics,620-Engineering & allied operations,15.166089646277495
+title_abs,2,1,0.05,620-Engineering & allied operations,530-Physics,14.761726945999184
+title_abs,2,1,1,570-Life sciences; biology,610-Medicine & health,39.136948400505013
+title_abs,2,1,1,530-Physics,620-Engineering & allied operations,12.756648094078441
+title_abs,2,1,1,620-Engineering & allied operations,530-Physics,10.548550105613097
+title_abs,2,1,3,570-Life sciences; biology,610-Medicine & health,50.350413213636031
+title_abs,2,2,-2,610-Medicine & health,040-,55.137369473575134
+title_abs,2,2,0,570-Life sciences; biology,610-Medicine & health,23.500120373368521
+title_abs,2,2,0,530-Physics,620-Engineering & allied operations,13.584027904216152
+title_abs,2,2,0,620-Engineering & allied operations,530-Physics,13.264529642378738
+title_abs,2,2,0.05,570-Life sciences; biology,610-Medicine & health,24.095437197048216
+title_abs,2,2,0.05,530-Physics,620-Engineering & allied operations,13.529721192157249
+title_abs,2,2,0.05,620-Engineering & allied operations,530-Physics,13.080579299933792
+title_abs,2,2,1,570-Life sciences; biology,610-Medicine & health,34.043644785544174
+title_abs,2,2,1,530-Physics,620-Engineering & allied operations,11.969565775053479
+title_abs,2,2,1,620-Engineering & allied operations,530-Physics,10.033672277495748
+title_abs,2,2,3,570-Life sciences; biology,610-Medicine & health,48.466484147937095
+title_abs,2,3,-2,610-Medicine & health,040-,41.237165452164419
+title_abs,2,3,0,570-Life sciences; biology,610-Medicine & health,22.116936377639153
+title_abs,2,3,0,530-Physics,620-Engineering & allied operations,13.343711644783625
+title_abs,2,3,0,620-Engineering & allied operations,530-Physics,12.978770063338594
+title_abs,2,3,0.05,570-Life sciences; biology,610-Medicine & health,22.730857012248407
+title_abs,2,3,0.05,530-Physics,620-Engineering & allied operations,13.297903843454035
+title_abs,2,3,0.05,620-Engineering & allied operations,530-Physics,12.821056491184363
+title_abs,2,3,1,570-Life sciences; biology,610-Medicine & health,33.073718347626773
+title_abs,2,3,1,530-Physics,620-Engineering & allied operations,11.847774859304726
+title_abs,2,3,3,570-Life sciences; biology,610-Medicine & health,48.082487831927715
+title_abs,3,1,-2,621-Applied physics,537-Electricity & electronics,47.628753211304527
+title_abs,3,1,-2,537-Electricity & electronics,621-Applied physics,27.340036929993136
+title_abs,3,1,0,621-Applied physics,537-Electricity & electronics,50.269375545229948
+title_abs,3,1,0,537-Electricity & electronics,621-Applied physics,24.762783762603846
+title_abs,3,1,0,004-Data processing & computer science,537-Electricity & electronics,10.970039898553157
+title_abs,3,1,0.05,621-Applied physics,537-Electricity & electronics,50.273287805346094
+title_abs,3,1,0.05,537-Electricity & electronics,621-Applied physics,24.678140571990198
+title_abs,3,1,0.05,004-Data processing & computer science,537-Electricity & electronics,11.081922405284265
+title_abs,3,1,1,621-Applied physics,537-Electricity & electronics,51.299414520693212
+title_abs,3,1,1,537-Electricity & electronics,621-Applied physics,23.314848050979176
+title_abs,3,1,1,004-Data processing & computer science,537-Electricity & electronics,12.700800580774009
+title_abs,3,1,3,621-Applied physics,537-Electricity & electronics,51.464291093753296
+title_abs,3,1,3,004-Data processing & computer science,537-Electricity & electronics,17.625287801519207
+title_abs,3,1,3,537-Electricity & electronics,621-Applied physics,17.468207346201023
+title_abs,3,2,-2,621-Applied physics,537-Electricity & electronics,10.331864763818531
+title_abs,3,2,0,621-Applied physics,537-Electricity & electronics,32.743982479397275
+title_abs,3,2,0,537-Electricity & electronics,621-Applied physics,18.304396704902494
+title_abs,3,2,0.05,621-Applied physics,537-Electricity & electronics,33.042549147619944
+title_abs,3,2,0.05,537-Electricity & electronics,621-Applied physics,18.301835332727265
+title_abs,3,2,1,621-Applied physics,537-Electricity & electronics,37.971752404539274
+title_abs,3,2,1,537-Electricity & electronics,621-Applied physics,18.558013296732675
+title_abs,3,2,1,004-Data processing & computer science,537-Electricity & electronics,11.410587343628736
+title_abs,3,2,3,621-Applied physics,537-Electricity & electronics,43.878137505845686
+title_abs,3,2,3,004-Data processing & computer science,537-Electricity & electronics,16.043538638935662
+title_abs,3,2,3,537-Electricity & electronics,621-Applied physics,15.657631221016789
+title_abs,3,3,0,621-Applied physics,537-Electricity & electronics,31.180202639841927
+title_abs,3,3,0,537-Electricity & electronics,621-Applied physics,18.066536240916363
+title_abs,3,3,0.05,621-Applied physics,537-Electricity & electronics,31.512773668389467
+title_abs,3,3,0.05,537-Electricity & electronics,621-Applied physics,18.064916599097717
+title_abs,3,3,1,621-Applied physics,537-Electricity & electronics,36.74659903092391
+title_abs,3,3,1,537-Electricity & electronics,621-Applied physics,18.346291120821338
+title_abs,3,3,1,004-Data processing & computer science,537-Electricity & electronics,11.219272729472713
+title_abs,3,3,3,621-Applied physics,537-Electricity & electronics,43.01763768524669
+title_abs,3,3,3,004-Data processing & computer science,537-Electricity & electronics,15.859525243697691
+title_abs,3,3,3,537-Electricity & electronics,621-Applied physics,15.608951035316013
+title_contents_abs,1,1,-2,500-Natural sciences & mathematics,600-Technology,23.930835965651074
+title_contents_abs,1,1,-2,600-Technology,500-Natural sciences & mathematics,12.885460055788815
+title_contents_abs,1,1,0,500-Natural sciences & mathematics,600-Technology,34.687780672747955
+title_contents_abs,1,1,0,600-Technology,500-Natural sciences & mathematics,17.040922853045604
+title_contents_abs,1,1,0.05,500-Natural sciences & mathematics,600-Technology,35.062168890058736
+title_contents_abs,1,1,0.05,600-Technology,500-Natural sciences & mathematics,17.192258984889399
+title_contents_abs,1,1,1,500-Natural sciences & mathematics,600-Technology,40.928052712344062
+title_contents_abs,1,1,1,600-Technology,500-Natural sciences & mathematics,18.832656458063244
+title_contents_abs,1,1,3,500-Natural sciences & mathematics,600-Technology,47.494509625290071
+title_contents_abs,1,1,3,600-Technology,500-Natural sciences & mathematics,15.778430085038652
+title_contents_abs,1,2,-2,600-Technology,500-Natural sciences & mathematics,19.82019374876835
+title_contents_abs,1,2,-2,500-Natural sciences & mathematics,600-Technology,12.088596150820305
+title_contents_abs,1,2,0,500-Natural sciences & mathematics,600-Technology,32.861858063501757
+title_contents_abs,1,2,0,600-Technology,500-Natural sciences & mathematics,19.257438449136842
+title_contents_abs,1,2,0.05,500-Natural sciences & mathematics,600-Technology,33.26462063549944
+title_contents_abs,1,2,0.05,600-Technology,500-Natural sciences & mathematics,19.353340900808774
+title_contents_abs,1,2,1,500-Natural sciences & mathematics,600-Technology,39.459483276039158
+title_contents_abs,1,2,1,600-Technology,500-Natural sciences & mathematics,20.068056432200798
+title_contents_abs,1,2,3,500-Natural sciences & mathematics,600-Technology,46.492473029588972
+title_contents_abs,1,2,3,600-Technology,500-Natural sciences & mathematics,16.031490265965363
+title_contents_abs,1,3,-2,600-Technology,500-Natural sciences & mathematics,18.707069750633973
+title_contents_abs,1,3,0,500-Natural sciences & mathematics,600-Technology,32.301679274107329
+title_contents_abs,1,3,0,600-Technology,500-Natural sciences & mathematics,19.885622301188082
+title_contents_abs,1,3,0.05,500-Natural sciences & mathematics,600-Technology,32.710560370265483
+title_contents_abs,1,3,0.05,600-Technology,500-Natural sciences & mathematics,19.968971702199784
+title_contents_abs,1,3,1,500-Natural sciences & mathematics,600-Technology,38.986596712585587
+title_contents_abs,1,3,1,600-Technology,500-Natural sciences & mathematics,20.437846843148883
+title_contents_abs,1,3,3,500-Natural sciences & mathematics,600-Technology,46.152226536987861
+title_contents_abs,1,3,3,600-Technology,500-Natural sciences & mathematics,16.106319470973073
+title_contents_abs,2,1,-2,620-Engineering & allied operations,530-Physics,23.592047595927557
+title_contents_abs,2,1,-2,570-Life sciences; biology,610-Medicine & health,23.549501189782625
+title_contents_abs,2,1,-2,530-Physics,620-Engineering & allied operations,13.711080695218916
+title_contents_abs,2,1,0,570-Life sciences; biology,610-Medicine & health,28.932561628784971
+title_contents_abs,2,1,0,620-Engineering & allied operations,530-Physics,21.525041968950152
+title_contents_abs,2,1,0,530-Physics,620-Engineering & allied operations,11.227705750258071
+title_contents_abs,2,1,0.05,570-Life sciences; biology,610-Medicine & health,29.252440905272888
+title_contents_abs,2,1,0.05,620-Engineering & allied operations,530-Physics,21.336548039921723
+title_contents_abs,2,1,0.05,530-Physics,620-Engineering & allied operations,11.12420900067389
+title_contents_abs,2,1,1,570-Life sciences; biology,610-Medicine & health,34.307902187046579
+title_contents_abs,2,1,1,620-Engineering & allied operations,530-Physics,18.740331225644049
+title_contents_abs,2,1,3,570-Life sciences; biology,610-Medicine & health,43.672631030078108
+title_contents_abs,2,1,3,620-Engineering & allied operations,530-Physics,12.514219659132833
+title_contents_abs,2,2,-2,610-Medicine & health,040-,52.553305542359837
+title_contents_abs,2,2,0,570-Life sciences; biology,610-Medicine & health,19.905021953042532
+title_contents_abs,2,2,0,620-Engineering & allied operations,530-Physics,17.710280488952122
+title_contents_abs,2,2,0,530-Physics,620-Engineering & allied operations,10.849348903534477
+title_contents_abs,2,2,0.05,570-Life sciences; biology,610-Medicine & health,20.384560269531008
+title_contents_abs,2,2,0.05,620-Engineering & allied operations,530-Physics,17.697336483774258
+title_contents_abs,2,2,0.05,530-Physics,620-Engineering & allied operations,10.786439966873314
+title_contents_abs,2,2,1,570-Life sciences; biology,610-Medicine & health,28.187997500261798
+title_contents_abs,2,2,1,620-Engineering & allied operations,530-Physics,16.942250673084061
+title_contents_abs,2,2,3,570-Life sciences; biology,610-Medicine & health,40.53469323324331
+title_contents_abs,2,2,3,620-Engineering & allied operations,530-Physics,11.976869521609423
+title_contents_abs,2,3,-2,610-Medicine & health,040-,41.017706212382848
+title_contents_abs,2,3,0,570-Life sciences; biology,610-Medicine & health,18.448438656985672
+title_contents_abs,2,3,0,620-Engineering & allied operations,530-Physics,17.070047029254539
+title_contents_abs,2,3,0,530-Physics,620-Engineering & allied operations,10.878673183235794
+title_contents_abs,2,3,0.05,570-Life sciences; biology,610-Medicine & health,18.942787679638172
+title_contents_abs,2,3,0.05,620-Engineering & allied operations,530-Physics,17.081145063766314
+title_contents_abs,2,3,0.05,530-Physics,620-Engineering & allied operations,10.821938273499303
+title_contents_abs,2,3,1,570-Life sciences; biology,610-Medicine & health,27.054353448255071
+title_contents_abs,2,3,1,620-Engineering & allied operations,530-Physics,16.631097001736546
+title_contents_abs,2,3,3,570-Life sciences; biology,610-Medicine & health,39.857572167031002
+title_contents_abs,2,3,3,620-Engineering & allied operations,530-Physics,11.866828019996348
+title_contents_abs,3,1,-2,621-Applied physics,537-Electricity & electronics,41.159957132963889
+title_contents_abs,3,1,-2,537-Electricity & electronics,621-Applied physics,34.641245256809462
+title_contents_abs,3,1,0,621-Applied physics,537-Electricity & electronics,41.187834181060211
+title_contents_abs,3,1,0,537-Electricity & electronics,621-Applied physics,36.103693089298559
+title_contents_abs,3,1,0.05,621-Applied physics,537-Electricity & electronics,41.275693192783017
+title_contents_abs,3,1,0.05,537-Electricity & electronics,621-Applied physics,36.146461060437879
+title_contents_abs,3,1,1,621-Applied physics,537-Electricity & electronics,40.678559069219837
+title_contents_abs,3,1,1,537-Electricity & electronics,621-Applied physics,38.140561731622761
+title_contents_abs,3,1,3,621-Applied physics,537-Electricity & electronics,40.057183404290832
+title_contents_abs,3,1,3,537-Electricity & electronics,621-Applied physics,37.124968695216644
+title_contents_abs,3,2,0,621-Applied physics,537-Electricity & electronics,28.913515972235455
+title_contents_abs,3,2,0,537-Electricity & electronics,621-Applied physics,27.517866687909148
+title_contents_abs,3,2,0.05,621-Applied physics,537-Electricity & electronics,29.24509704042913
+title_contents_abs,3,2,0.05,537-Electricity & electronics,621-Applied physics,27.747339861351275
+title_contents_abs,3,2,1,621-Applied physics,537-Electricity & electronics,31.93645742771654
+title_contents_abs,3,2,1,537-Electricity & electronics,621-Applied physics,31.30031050970473
+title_contents_abs,3,2,3,621-Applied physics,537-Electricity & electronics,33.67879468400676
+title_contents_abs,3,2,3,537-Electricity & electronics,621-Applied physics,31.701218388107748
+title_contents_abs,3,3,0,621-Applied physics,537-Electricity & electronics,27.951623626630283
+title_contents_abs,3,3,0,537-Electricity & electronics,621-Applied physics,27.065815046459111
+title_contents_abs,3,3,0.05,621-Applied physics,537-Electricity & electronics,28.294019718888642
+title_contents_abs,3,3,0.05,537-Electricity & electronics,621-Applied physics,27.29355058354151
+title_contents_abs,3,3,1,621-Applied physics,537-Electricity & electronics,31.128134825598352
+title_contents_abs,3,3,1,537-Electricity & electronics,621-Applied physics,30.811301328996667
+title_contents_abs,3,3,3,621-Applied physics,537-Electricity & electronics,32.754518687270242
+title_contents_abs,3,3,3,537-Electricity & electronics,621-Applied physics,30.983042833501685
+title_contents,1,1,-2,500-Natural sciences & mathematics,600-Technology,29.172930207849774
+title_contents,1,1,0,500-Natural sciences & mathematics,600-Technology,45.76179689776383
+title_contents,1,1,0.05,500-Natural sciences & mathematics,600-Technology,46.603815046931629
+title_contents,1,1,1,500-Natural sciences & mathematics,600-Technology,56.721876071772968
+title_contents,1,1,1,300-Social sciences,600-Technology,11.716378755491462
+title_contents,1,1,3,500-Natural sciences & mathematics,600-Technology,44.589213222501478
+title_contents,1,1,3,300-Social sciences,600-Technology,13.317224047941231
+title_contents,1,2,-2,600-Technology,500-Natural sciences & mathematics,26.381605179707556
+title_contents,1,2,-2,600-Technology,"000-Computer science, information & general works",11.341489217900255
+title_contents,1,2,-2,500-Natural sciences & mathematics,600-Technology,11.281382468910685
+title_contents,1,2,0,500-Natural sciences & mathematics,600-Technology,44.745613760457147
+title_contents,1,2,0.05,500-Natural sciences & mathematics,600-Technology,45.614879898182011
+title_contents,1,2,1,500-Natural sciences & mathematics,600-Technology,55.603625884952692
+title_contents,1,2,1,300-Social sciences,600-Technology,11.674543973568019
+title_contents,1,2,3,500-Natural sciences & mathematics,600-Technology,42.355192674005806
+title_contents,1,2,3,300-Social sciences,600-Technology,13.126335840316209
+title_contents,1,2,3,"000-Computer science, information & general works",600-Technology,11.06142853310201
+title_contents,1,3,-2,600-Technology,500-Natural sciences & mathematics,24.189598139861666
+title_contents,1,3,-2,600-Technology,"000-Computer science, information & general works",15.667156979764574
+title_contents,1,3,-2,600-Technology,300-Social sciences,10.845801712674954
+title_contents,1,3,0,500-Natural sciences & mathematics,600-Technology,44.398200186641645
+title_contents,1,3,0.05,500-Natural sciences & mathematics,600-Technology,45.274403628448589
+title_contents,1,3,1,500-Natural sciences & mathematics,600-Technology,55.207790834490247
+title_contents,1,3,1,300-Social sciences,600-Technology,11.657241027400417
+title_contents,1,3,3,500-Natural sciences & mathematics,600-Technology,41.622525787566254
+title_contents,1,3,3,300-Social sciences,600-Technology,13.048856983551696
+title_contents,1,3,3,"000-Computer science, information & general works",600-Technology,11.377892389183085
+title_contents,2,1,-2,570-Life sciences; biology,610-Medicine & health,24.957552133475559
+title_contents,2,1,-2,620-Engineering & allied operations,530-Physics,23.52907443945281
+title_contents,2,1,-2,530-Physics,620-Engineering & allied operations,14.235163596778397
+title_contents,2,1,0,570-Life sciences; biology,610-Medicine & health,41.711733243415701
+title_contents,2,1,0,620-Engineering & allied operations,530-Physics,13.739565549319954
+title_contents,2,1,0.05,570-Life sciences; biology,610-Medicine & health,42.749451587319868
+title_contents,2,1,0.05,620-Engineering & allied operations,530-Physics,12.975725145276746
+title_contents,2,1,1,570-Life sciences; biology,610-Medicine & health,57.312129762528571
+title_contents,2,1,3,570-Life sciences; biology,610-Medicine & health,52.503533212194604
+title_contents,2,1,3,360-Social problems & services; associations,610-Medicine & health,12.169392287502529
+title_contents,2,2,-2,610-Medicine & health,040-,49.497653691043851
+title_contents,2,2,0,570-Life sciences; biology,610-Medicine & health,36.965834986502507
+title_contents,2,2,0,620-Engineering & allied operations,530-Physics,12.715131209511448
+title_contents,2,2,0.05,570-Life sciences; biology,610-Medicine & health,38.220547206370853
+title_contents,2,2,0.05,620-Engineering & allied operations,530-Physics,12.036791394524252
+title_contents,2,2,1,570-Life sciences; biology,610-Medicine & health,54.253189040222374
+title_contents,2,2,3,570-Life sciences; biology,610-Medicine & health,46.949967276748417
+title_contents,2,2,3,360-Social problems & services; associations,610-Medicine & health,10.909255038252359
+title_contents,2,3,-2,610-Medicine & health,040-,37.807181585152577
+title_contents,2,3,0,570-Life sciences; biology,610-Medicine & health,35.929730969212358
+title_contents,2,3,0,620-Engineering & allied operations,530-Physics,12.491422864796807
+title_contents,2,3,0.05,570-Life sciences; biology,610-Medicine & health,37.222936334858403
+title_contents,2,3,0.05,620-Engineering & allied operations,530-Physics,11.833132634886741
+title_contents,2,3,1,570-Life sciences; biology,610-Medicine & health,53.582179549189576
+title_contents,2,3,3,570-Life sciences; biology,610-Medicine & health,45.776063135350782
+title_contents,2,3,3,360-Social problems & services; associations,610-Medicine & health,10.636487656041428
+title_contents,3,1,-2,621-Applied physics,537-Electricity & electronics,50.681054891294572
+title_contents,3,1,-2,537-Electricity & electronics,621-Applied physics,26.978534122997274
+title_contents,3,1,-2,004-Data processing & computer science,537-Electricity & electronics,10.745668939757126
+title_contents,3,1,0,621-Applied physics,537-Electricity & electronics,52.813766263497051
+title_contents,3,1,0,537-Electricity & electronics,621-Applied physics,24.716089892785053
+title_contents,3,1,0,004-Data processing & computer science,537-Electricity & electronics,13.475371055744256
+title_contents,3,1,0.05,621-Applied physics,537-Electricity & electronics,52.706061743687592
+title_contents,3,1,0.05,537-Electricity & electronics,621-Applied physics,24.709051848887331
+title_contents,3,1,0.05,004-Data processing & computer science,537-Electricity & electronics,13.742907182702426
+title_contents,3,1,1,621-Applied physics,537-Electricity & electronics,49.653912709094442
+title_contents,3,1,1,537-Electricity & electronics,621-Applied physics,25.831570851759245
+title_contents,3,1,1,004-Data processing & computer science,537-Electricity & electronics,14.492405306671793
+title_contents,3,1,3,621-Applied physics,537-Electricity & electronics,26.646706586826348
+title_contents,3,1,3,537-Electricity & electronics,621-Applied physics,16.616766467065869
+title_contents,3,1,3,"000-Computer science, information & general works","005-Computer programming, programs & data",11.07784431137725
+title_contents,3,2,-2,621-Applied physics,537-Electricity & electronics,12.209725428940162
+title_contents,3,2,0,621-Applied physics,537-Electricity & electronics,41.596802963775815
+title_contents,3,2,0,537-Electricity & electronics,621-Applied physics,20.165683315038507
+title_contents,3,2,0,004-Data processing & computer science,537-Electricity & electronics,10.256471825832453
+title_contents,3,2,0.05,621-Applied physics,537-Electricity & electronics,41.76856475353928
+title_contents,3,2,0.05,537-Electricity & electronics,621-Applied physics,20.222446155697341
+title_contents,3,2,0.05,004-Data processing & computer science,537-Electricity & electronics,10.542378574579905
+title_contents,3,2,1,621-Applied physics,537-Electricity & electronics,36.022585561867842
+title_contents,3,2,1,537-Electricity & electronics,621-Applied physics,18.761258140501575
+title_contents,3,2,1,004-Data processing & computer science,537-Electricity & electronics,10.485658861022589
+title_contents,3,2,3,004-Data processing & computer science,"005-Computer programming, programs & data",10.323180655661476
+title_contents,3,3,0,621-Applied physics,537-Electricity & electronics,40.403731082536723
+title_contents,3,3,0,537-Electricity & electronics,621-Applied physics,19.828665821520723
+title_contents,3,3,0.05,621-Applied physics,537-Electricity & electronics,40.600940317824104
+title_contents,3,3,0.05,537-Electricity & electronics,621-Applied physics,19.871074960632718
+title_contents,3,3,0.05,004-Data processing & computer science,537-Electricity & electronics,10.154725316054417
+title_contents,3,3,1,621-Applied physics,537-Electricity & electronics,34.342435034955862
+title_contents,3,3,1,537-Electricity & electronics,621-Applied physics,17.893417754913596
