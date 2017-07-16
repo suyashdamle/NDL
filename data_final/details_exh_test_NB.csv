@@ -1,6 +1,0 @@
-parameter,level,Naive Bayes,SVM
-title,1,59.03%,62.63%
-title,2,91.50%,92.00%
-title,3,63.00%,71.80%
-title+abs,3,61.20%,71.00%
-title+abs+table_of_contents,3,62.69%,72.00%
